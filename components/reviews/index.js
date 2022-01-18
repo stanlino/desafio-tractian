@@ -14,7 +14,7 @@ export default function Reviews() {
             return (
               <ReviewBox
                 key={index}
-                float={index%2 == 0 ? 'start' : 'end'}
+                float={index%2 == 0}
                 img={client["imgUrl"]}
                 altImg={"Cliente da Tractian"}
                 reviewText={client["reviewText"]}

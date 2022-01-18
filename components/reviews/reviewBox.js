@@ -10,9 +10,9 @@ export default function ReviewBox({
   float,
 }) {
   return (
-    <div className={`w-full flex justify-${float} py-4`}>
+    <div className={`w-full flex ${float ? 'justify-start' : 'justify-end'} py-4`}>
       <div
-        className={`bg-white lg:w-3/5 w-full h-full py-2 rounded-3xl ${float == 'start' ? 'rounded-tl' : 'rounded-tr'} flex px-2`}
+        className={`bg-white lg:w-3/5 w-full h-full py-2 rounded-3xl ${float ? 'rounded-tl' : 'rounded-tr'} flex px-2`}
       >
         <div className="w-1/5 flex flex-col justify-center items-center">
           <Image src={img} alt={altImg} width={55} height={55} />

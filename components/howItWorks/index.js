@@ -11,7 +11,7 @@ export default function HowItWorks() {
       <h1 className="text-3xl leading-9 text-blue-900 sm:text-4xl tracking-wide mb-6 lg:mb-10">
         Como funciona?
       </h1>
-      <h1 className="mb-4 text-lg">Combine monitoramento e gestão, escolha:</h1>
+      <h1 className="mb-4 text-lg text-center">Combine monitoramento e gestão, escolha:</h1>
       <div className="flex w-full px-2">
         <button
           className={`${

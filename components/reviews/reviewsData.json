@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Tiago Junqueira",
+        "imgUrl": "/clientes/tiago-junqueira.png",
+        "occupation": "Supervisor de Manutenção Geral - AmstedMaxion",
+        "reviewText": "Antes da Tractian, a falha acontecia sem que nós tivéssemos nenhuma chance de reação. Agora nós conseguimos identificar qualquer anomalia fora do normal e isso nos permite fazer a intervenção antes que a quebra aconteça."
+    },
+    {
+        "name": "Eduarda Buaiz",
+        "imgUrl": "/clientes/eduarda.png",
+        "occupation": "Diretora Geral - Indústria Alimentícia",
+        "reviewText": "O dispositivo traz mais confiabilidade ao processo, agilizando a análise de informações e evitando paradas na produção, o que impacta positivamente a produtividade."
+    },
+    {
+        "name": "Gustavo Ribeiro",
+        "imgUrl": "/clientes/gustavo.png",
+        "occupation": "Diretor Industrial - Indústria Gerenciamento de Resíduos",
+        "reviewText": "Com a Tractian otimizamos tempo, reduzimos custo com falhas antecipadas pela solução. A tecnologia deles é uma grande ferramenta no acompanhamento e gestão dos nossos ativos que são um dos patrimônios da empresa."
+    },
+    {
+        "name": "Renê Santos",
+        "imgUrl": "/clientes/rene.png",
+        "occupation": "Técnico Mecânico - Indústria Cervejeira",
+        "reviewText": "Uma criança pode instalar o sensor da Tractian, e a plataforma é tão fácil de usar quanto uma rede social. Todo sistema é muito simples e confiável."
+    }
+]

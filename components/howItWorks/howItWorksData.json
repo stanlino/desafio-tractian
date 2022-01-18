@@ -1,0 +1,41 @@
+{
+    "01": [
+        {
+            "imgSrc": "/images/enviamos-o-sensor.png",
+            "imgAlt": "Enviamos o sensor",
+            "title": "Nós enviamos os sensores",
+            "description": "Fazemos a entrega pelos Correios para o Brasil todo. Você recebe o sensor na sua empresa. Não necessita passar pelo Wi-Fi industrial e nem falar com a TI."
+        },
+        {
+            "imgSrc": "/images/cole-o-sensor.png",
+            "imgAlt": "Cole o sensor",
+            "title": "Cole em suas máquinas",
+            "description": "Nosso sensor é colado na máquina como um bandaid. Ele é responsável por transmitir os dados de vibração e temperatura do equipamento para a plataforma."
+        },
+        {
+            "imgSrc": "/images/insights-tela-desalinhamento.png",
+            "imgAlt": "Tela de insights",
+            "title": "Receba Insights valiosos",
+            "description": "Nosso sistema centraliza informações precisas sobre suas máquinas, com insights e análises, como saúde do equipamento, detecção de anomalias e variação de espectros."
+        }
+    ],
+    "02": [
+        {
+            "imgSrc": "/images/planos-preventivos.png",
+            "imgAlt": "Nos envie sua lista Ativos, Locais e Usuários",
+            "title": "Nos envie sua lista Ativos, Locais e Usuários",
+            "description": "Deixamos a plataforma pronta e organizada para você, preparando sua planta e seus ativos seguindo a disposição enviada para nós, bem como seus mantenedores cadastrados na plataforma."
+        },
+        {
+            "imgSrc": "/images/cadastro-os.png",
+            "imgAlt": "Automatize seus Planos e Ordens de Serviço",
+            "title": "Automatize seus Planos e Ordens de Serviço",
+            "description": "Use procedimentos online para organizar checklists e inspeções. Sequenciar e planejar Ordens de Serviço preventivamente nunca foi tão fácil."
+        },{
+            "imgSrc": "/images/automacoes-e-metricas.png",
+            "imgAlt": "Substitua o Excel por completo",
+            "title": "Substitua o Excel por completo",
+            "description": "A plataforma vai abrir as Ordens de serviços e distribui-las conforme as automações configuradas, permitindo que toda a equipe de manutenção se preocupe apenas em executar suas atividades de rotina."
+        }
+    ]
+}
